@@ -65,7 +65,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-fabulous:hover {
     background-image: url("images/fabulous.gif");
-    position: center;
+    background-position-x: center;
 }
 
 #gift-img-awesome:hover {
